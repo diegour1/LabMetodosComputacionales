@@ -4,7 +4,7 @@
 
 Material del curso Laboratorio de Métodos Computacionales de Uniandes 2021 10
 
-> Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional ![ComputoCienciasUniandes]](http://computocienciasuniandes.github.io/) liderado por el Profesor Jaime Ernesto Forero
+> Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional [ComputoCienciasUniandes]](http://computocienciasuniandes.github.io/) liderado por el Profesor Jaime Ernesto Forero
 
 **Universidad de los Andes | Vigilada Mineducación
 Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.
