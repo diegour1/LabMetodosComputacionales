@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/LabMetodosComputacionales/main)
 
-Material del curso Laboratorio de Métodos Computacionales de Uniandes 2021 10
+Material del curso Laboratorio de Métodos Computacionales de Uniandes 2021 20
 
 > Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional [ComputoCienciasUniandes]](http://computocienciasuniandes.github.io/) liderado por el Profesor Jaime Ernesto Forero
 
